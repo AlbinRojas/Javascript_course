@@ -2,7 +2,7 @@ const todoList = [{
   name: 'make dinner', 
   dueDate: '2024-02-11'
 },{
-  name: 'wash diches',
+  name: 'wash dishes',
   dueDate: '2024-02-11'
 }];
 
